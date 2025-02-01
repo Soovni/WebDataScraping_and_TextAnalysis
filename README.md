@@ -1,4 +1,8 @@
+## WebDataScraping_and_TextAnalysis_project 
+"Web Data Scraping and Text Analysis" is a project conducted in a capstone design course. After learning web crawling, we extract text information from the collected data, perform sentiment analysis, apply machine learning, and ultimately derive improvement suggestions from a business management perspective.
+
 ### Project contents
+
 The analysis identified the strengths and weaknesses of major real estate apps through user reviews. 
 다방 excels in filtering features, 직방 is strong in information management, and 피터팬 offers direct transactions without brokerage fees. 
 In contrast, 네이버부동산 faces challenges with functionality and UX issues. 
