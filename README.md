@@ -10,9 +10,10 @@ This study aims to analyze user review data from major real estate platforms in 
 It will use text analysis techniques such as frequency analysis, word clouds, and network analysis, and explore the relationship between reviews and ratings through regression analysis. 
 The study will also propose a personalized recommendation system for real estate apps based on platform characteristics and user data, with the goal of reducing the use of multiple apps and enhancing platform loyalty.
 
-#### Methods used
+### Methods used
 The study analyzed user reviews of real estate apps to identify strengths and weaknesses and conducted topic modeling and sentiment analysis. 
-It calculates sentiment scores by applying keyword weights and normalizing them. For rating prediction, TF-IDF vectorization and a Random Forest Regressor are used to predict review scores, 
+It calculates sentiment scores by applying keyword weights and normalizing them.
+For rating prediction, TF-IDF vectorization and a Random Forest Regressor are used to predict review scores, 
 with evaluation metrics like MSE and R² to assess model performance.
 
 ### Expectation and contribution
